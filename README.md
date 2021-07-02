@@ -1,3 +1,3 @@
 #Gitチュートリアル
 
- feature-A 2
+ feature-A
